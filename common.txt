@@ -1,1 +1,1 @@
-logout 2
+main1, logout2
